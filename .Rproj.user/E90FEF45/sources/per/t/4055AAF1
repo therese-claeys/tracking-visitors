@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603969230405.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3974215919",
+    "id" : "4055AAF1",
+    "lastKnownWriteTime" : 1604350008,
+    "last_content_update" : 1604350008970,
+    "path" : "~/Documents/work/repos/tracking-gps/src/tracking-gps.R",
+    "project_path" : "src/tracking-gps.R",
+    "properties" : {
+        "cursorPosition" : "749,31",
+        "scrollLine" : "725"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
