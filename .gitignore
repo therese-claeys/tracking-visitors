@@ -1,5 +1,5 @@
-outputs
 data-legacy
 *.zip
 *.qgz
 .Rproj.user
+.RData
