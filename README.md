@@ -8,4 +8,4 @@ Source code for GIS analyses done for the following publication:
 ## Contact
 
 - Thérèse Claeys (therese.claeys@uclouvain.be) - Department of Archaeology and Art History, Université catholique de Louvain, Louvain-la-Neuve, Belgium.
-- François Clapuyt (françois.clapuyt@uclouvain.be) - Earth and Life Institute, Université catholique de Louvain, Louvain-la-Neuve, Belgium.
+- François Clapuyt (francois.clapuyt@uclouvain.be) - Earth and Life Institute, Université catholique de Louvain, Louvain-la-Neuve, Belgium.
