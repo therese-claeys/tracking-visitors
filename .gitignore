@@ -1,5 +1,6 @@
 data-legacy
 *.zip
 *.qgz
-.Rproj.user
+.Rproj.user/
 .RData
+.Rhistory
